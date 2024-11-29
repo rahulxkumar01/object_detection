@@ -1,0 +1,9 @@
+nltk==3.8.1
+numpy==1.23.5
+pickleshare==0.7.5
+streamlit==1.32.2
+scikit-learn==1.2.2
+pytorch==2.4
+torchvision==0.20
+pil==11.0.0
+matplotlib==3.9.2
